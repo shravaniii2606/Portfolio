@@ -83,6 +83,7 @@ const TIMELINE = [
   { event: 'B.L.I.T.Z', org: 'IEEE SFIT', result: 'Top 2', detail: 'Role: Team Leader', tone: 'high' },
   { event: 'Hack The Matrix', org: 'IPEC Indraprastha Engineering College', result: 'Top 7 Overall . Top 3 Best Girl Team', detail: "Role: Team Leader", tone: 'high' },
   { event: 'InnovGenius Ideathon × TCS', org: "ACM TCET", result: 'Top 10', detail: "Role: Team Leader", tone: 'high' },
+  { event: 'PromptWars x Global Prompt Challenge', org: "DEVENGERS", result: 'Top 13', detail: "Indiviual", tone: 'high' },
   { event: 'Confluence 2.0 - Beyond The Edge of Possibility', org: 'SRM Institute of Science and Technology', result: 'Top 30', detail: "Role: Team Leader", tone: 'high' },
   { event: 'Bharat Academix CodeQuest', org: 'Bharat Academix', result: 'Made it to the 2nd round', detail: "Role: Team Leader", tone: 'high' },
   { event: 'HackArena 2.0 – Online Zonals', org: 'Indraprastha Institute of Information Technology (IIIT), Delhi', result: 'Participated', detail: "Role: Team Leader", tone: 'mid' },
